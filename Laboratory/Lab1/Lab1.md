@@ -33,33 +33,33 @@
 * Запустить MS Visual Studio
 * Нажамите "Создание проекта" 
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img1.png" alt="Рис.1" width="600"/> <br/> Рис.1
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img1.png" alt="Рис.1" width="600"/> <br/> Рис.1 Окно запуска VS
 * Выберите консольное приложение , а затем выберите Далее.
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Создание проекта
 
 * В диалоговом окне ***настроить новый проект*** введите HelloWorld в *имя проекта*. Нажмите ***создать*** для создания проекта.
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img3.png" alt="Рис.3" width="600"/> <br/> Рис.3
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img3.png" alt="Рис.3" width="600"/> <br/> Рис.3 Настройка нового проекта
 
 * Проект создан и готов к работе
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img4.png" alt="Рис.4" width="600"/> <br/> Рис.4 <br/><br/><br/>
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img4.png" alt="Рис.4" width="600"/> <br/> Рис.4 Созданный проект <br/><br/><br/>
 
 ###### 2. Как изменить цветовую схему (оформление) среды?
 Для того, чтобы изменить цветовую схему (оформление) среды нужно:
 
 * Перейти во вкладку Средства --> Параметры
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img5.png" alt="Рис.5" width="600"/> <br/> Рис.5
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img5.png" alt="Рис.5" width="600"/> <br/> Рис.5 Переход в раздел Параметры
 
 * Выбрать нужную цветовую схему, затем нажать ***ОК***
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img6.png" alt="Рис.6" width="600"/> <br/> Рис.6
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img6.png" alt="Рис.6" width="600"/> <br/> Рис.6 Окно Параметры
 
 * Цветовая схема изменена 
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img7.png" alt="Рис.7" width="600"/> <br/> Рис.7
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img7.png" alt="Рис.7" width="600"/> <br/> Рис.7 Светлая тема
 
 
 ###### 3. Как закомментировать/раскомментировать блок кода средствами VS?
@@ -68,12 +68,12 @@
 * Выделить блок кода и использовать сочетание клавиш:
 1.Ctrl + K Ctrl + C — закомментировать блок кода;
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img8.png" alt="Рис.8" width="600"/> <br/> Рис.8
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img8.png" alt="Рис.8" width="600"/> <br/> Рис.8 Закомментированный блок кода
 
 
 2.Ctrl + K Ctrl + U — раскомментировать блок кода;
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img9.png" alt="Рис.9" width="600"/> <br/> Рис.9
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img9.png" alt="Рис.9" width="600"/> <br/> Рис.9 Раскомментированный блок кода
 
 
 ###### 4. Как открыть в проводнике Windows папку с проектом средствами VS?
@@ -82,20 +82,20 @@
 * Первый способ: перейти по следующему пути **Users\Имя_Пользователя\source\repos\Имя_Проекта\Имя_Проекта**
 * Второй способ: В Visual Studio нажать ПКМ по проекту и нажать *Открыть папку в проводнике*
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img10.png" alt="Рис.10" width="600"/> <br/> Рис.10
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img10.png" alt="Рис.10" width="600"/> <br/> Рис.10 Открытие папки с проектом в проводнике
 
 
 ###### 5. Какое расширение файла-проекта используется в VS?
 
 VCXPROJ - расширение файла-проекта используется в VS
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img11.png" alt="Рис.11" width="600"/> <br/> Рис.11
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/img11.png" alt="Рис.11" width="600"/> <br/> Рис.11 Расширение файла-проекта
 
 ###### 6.Как запустить код без отладки (не менее 2 способов)?
 Для того, чтобы запустить код без отладки нужно:
 * Первый способ: перейти во вкладку *Откладка* и нажать *Запуск без откладки*
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg12.png" alt="Рис.12" width="600"/> <br/> Рис.12
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg12.png" alt="Рис.12" width="600"/> <br/> Рис.12 Запуск без откладки
 
 * Второй способ: Сочетанием клавиш **CTRL+F5**
 
@@ -103,7 +103,7 @@ VCXPROJ - расширение файла-проекта используетс�
 Для того, чтобы запустить код без отладки нужно:
 * Первый способ: перейти во вкладку *Откладка* и нажать *Начать откладку*
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg13.png" alt="Рис.13" width="600"/> <br/> Рис.13
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg13.png" alt="Рис.13" width="600"/> <br/> Рис.13 Запуск с откладкой
 
 * Второй способ: Клавишей **F5**
 
@@ -112,7 +112,7 @@ VCXPROJ - расширение файла-проекта используетс�
 Для того, чтобы запустить код без отладки нужно:
 * Перед номером строки, где его нужно поставить, нужно нажать ЛКМ и появится красный кружочек
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg14.png" alt="Рис.14" width="600"/> <br/> Рис.14
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg14.png" alt="Рис.14" width="600"/> <br/> Рис.14 Точка останова (breakpoint)
 
 ###### 9.Создайте программу со следующим кодом.
 ```cpp
@@ -126,23 +126,23 @@ int main() {
 ```
 * Переключитесь в конфигурацию сборки Debug
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg15.png" alt="Рис.15" width="600"/> <br/> Рис.15
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg15.png" alt="Рис.15" width="600"/> <br/> Рис.15 Конфигурация сборки Debug
 
 * Установите breakpoint на 5 и 6 строках
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg16.png" alt="Рис.16" width="600"/> <br/> Рис.16
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg16.png" alt="Рис.16" width="600"/> <br/> Рис.16 Breakpoint
 
 * Запустите приложение в режиме отладки. Используйте Кнопку Продолжить или Шаг с обходом(F10) для перемещения к следующей точке останова
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg17.png" alt="Рис.17" width="600"/> <br/> Рис.17
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg17.png" alt="Рис.17" width="600"/> <br/> Рис.17 Запуск кода с обходом
 
 * Какое значение содержит переменная i в 5й строке? Ответ: -858993460	
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg18.png" alt="Рис.18" width="600"/> <br/> Рис.18
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg18.png" alt="Рис.18" width="600"/> <br/> Рис.18 Значение  переменной i в 5й строке
 
 * Какое значение содержит переменная i в 6й строке? Ответ: 5
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg19.png" alt="Рис.19" width="600"/> <br/> Рис.19
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg19.png" alt="Рис.19" width="600"/> <br/> Рис.19 Значение  переменной i в 6й строке
 
 ###### 10.Выполните задание 9 изменив программу на следующую:
 ```cpp
@@ -159,11 +159,11 @@ int main() {
 * Какое значение содержит переменная i в 5й строке? Ответ: -9.2559631349317831e+61
 	
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg20.png" alt="Рис.20" width="600"/> <br/> Рис.20
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg20.png" alt="Рис.20" width="600"/> <br/> Рис.20 Значение  переменной i в 5й строке
 
 * Какое значение содержит переменная i в 6й строке? Ответ: 5.0000000000000000
 
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg21.png" alt="Рис.21" width="600"/> <br/> Рис.21
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab1/img/imgg21.png" alt="Рис.21" width="600"/> <br/> Рис.21 Значение  переменной i в 6й строке
 
 ***Вывод: Я изучил основные возможности создания и отладки программ в IDE MS Visual Studio.***
