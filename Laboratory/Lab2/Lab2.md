@@ -61,10 +61,16 @@ int main()
 			z=tan(x);
 			cout << "z = " << z << ", x = " << x << endl;
 		}
-		if (z < min) min = z;
-		else max = z;
+		if (z < min) {
+			min = z;
+			x1 = x;
+		}
+		else {
+			x2 = x;
+			max = z;
+		}
 	}
-	cout << "MIN значение функции = " << min << ", MAX значение функции =" << max;
+	cout << "\n MIN значение функции = " << min << ", аргумент = "  << x1 << ", MAX значение функции =" << max << ", аргумент = " << x2;
 }
 ```
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Результат работы программы
