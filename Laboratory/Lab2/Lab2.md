@@ -42,35 +42,36 @@
 #include <cmath>
 using namespace std;
 
+
 int main()
 {
-	setlocale(LC_ALL, "rus");
-	double x_min, x_max, a, b, dx, z, min=0, max=0;
-	cin >> a >> b >> x_min >> x_max >> dx;
-	for (double x = x_min; x <= x_max; x = x + dx) {
-		if (x <= a) {
-			z = log(x) + sin(x);
-			cout << "z = " << z << ", x = " << x << endl;
-		}
-		else if (x > a && x < b) {
-			z = log(x) + cos(x);
-			
-			cout << "z = " << z << ", x = " << x << endl;
-		}
-		else if (x >= b) {
-			z=tan(x);
-			cout << "z = " << z << ", x = " << x << endl;
-		}
-		if (z < min) {
-			min = z;
-			x1 = x;
-		}
-		else {
-			x2 = x;
-			max = z;
-		}
-	}
-	cout << "\n MIN значение функции = " << min << ", аргумент = "  << x1 << ", MAX значение функции =" << max << ", аргумент = " << x2;
+    setlocale(LC_ALL, "rus");
+    double x_min, x_max, a, b, dx, z, min=0, max=0, x1,x2;
+    cin >> a >> b >> x_min >> x_max >> dx;
+    for (double x = x_min; (x < x_max) || (abs(x - x_max) < 0.00001); x = x + dx) {
+        if (x <= a) {
+            z = log(x) + sin(x);
+            cout << "z = " << z << ", x = " << x << endl;
+        }
+        else if (x > a && x < b) {
+            z = log(x) + cos(x);
+
+            cout << "z = " << z << ", x = " << x << endl;
+        }
+        else if ((x > b) || (abs(x - x_max) < 0.00001)) {
+            z=tan(x);
+            cout << "z = " << z << ", x = " << x << endl;
+        }
+        if (z < min) {
+            min = z;
+            x1 = x;
+        }
+        else {
+            x2 = x;
+            max = z;
+        }
+    }
+    cout << "\n MIN значение функции = " << min << ", аргумент = "  << x1 << ", MAX значение функции =" << max << ", аргумент = " << x2;
 }
 ```
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Результат работы программы
