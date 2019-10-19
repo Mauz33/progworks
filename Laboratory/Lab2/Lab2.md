@@ -74,7 +74,7 @@ int main()
     cout << "\n MIN значение функции = " << min << ", аргумент = "  << x1 << ", MAX значение функции =" << max << ", аргумент = " << x2;
 }
 ```
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Результат работы программы
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img9.png" alt="Рис.2" width="600"/> <br/> Рис.2 Результат работы программы
 
 ***a = 0.7, b = 1.2 x_min = 0.5 x_max = 1.5 dx = 0.05***
 
