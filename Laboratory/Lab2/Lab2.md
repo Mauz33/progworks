@@ -111,18 +111,13 @@ int main()
 
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img5.png" alt="Рис.5" width="600"/> <br/> Рис.5 Условия для построения графика
 
-
-* добавим на график точки, которые у нас получились в процессе табуляции
-
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img6.png" alt="Рис.6" width="600"/> <br/> Рис.6 На графике отмечены точки, которые получились в результате табуляции
-
 * добавим на график точки минимума и максимума с метками значений
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img7.png" alt="Рис.7" width="600"/> <br/> Рис.7 Точки min, max
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img10.png" alt="Рис.7" width="600"/> <br/> Рис.7 Точки min, max
 
 * Скриншот получившегося графика:
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img8.png" alt="Рис.8"/> <br/> Рис.8 Конечный график
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img11.png" alt="Рис.8"/> <br/> Рис.8 Конечный график
 
 
 ***Вывод: Я овладел практическими навыками разработки и программирования вычислительного процесса циклической структуры, сформировал навыки программирования алгоритмов разветвляющейся структуры, изучил операторы ветвления, особенности использования полной и сокращенной формы оператора if и тернарного оператора***
