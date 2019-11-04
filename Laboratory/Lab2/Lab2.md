@@ -74,17 +74,17 @@ int main()
     cout << "\n MIN значение функции = " << min << ", аргумент = "  << x1 << ", MAX значение функции =" << max << ", аргумент = " << x2;
 }
 ```
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img9.png" alt="Рис.2" width="600"/> <br/> Рис.2 Результат работы программы
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img2.2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Результат работы программы
 
 ***a = 0.7, b = 1.2 x_min = 0.5 x_max = 1.5 dx = 0.05***
 
 | f(x)       | X           | 
 |:-------------: |:-------------:|
-|-0.213722 |0.5 |
-|-0.0751498 |0.55||
+| -0.213722 |0.5 |
+| -0.0751498 |0.55||
 |0.0538168 |0.6|
 |0.174403 |0.65|
-|0.408167 |0.7|
+|0.287543 |0.7|
 |0.444007 |0.75|
 |0.473563 |0.8|
 |0.497464 |0.85|
@@ -117,7 +117,8 @@ int main()
 
 * Скриншот получившегося графика:
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img11.png" alt="Рис.8"/> <br/> Рис.8 Конечный график
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img11.png" alt="Рис.8"/> <br/> Рис.8 Конечный график 
 
+https://www.desmos.com/calculator/7eqmeagcnm
 
 ***Вывод: Я овладел практическими навыками разработки и программирования вычислительного процесса циклической структуры, сформировал навыки программирования алгоритмов разветвляющейся структуры, изучил операторы ветвления, особенности использования полной и сокращенной формы оператора if и тернарного оператора***
