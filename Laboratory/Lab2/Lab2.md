@@ -49,7 +49,7 @@ int main()
     double x_min, x_max, a, b, dx, z, min=0, max=0, x1,x2;
     cin >> a >> b >> x_min >> x_max >> dx;
     for (double x = x_min; (x < x_max) || (abs(x - x_max) < 0.00001); x = x + dx) {
-        if (x <= a) {
+        if (x < a || abs(x-a)<0.00001) {
             z = log(x) + sin(x);
             cout << "z = " << z << ", x = " << x << endl;
         }
@@ -111,13 +111,9 @@ int main()
 
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img5.png" alt="Рис.5" width="600"/> <br/> Рис.5 Условия для построения графика
 
-* добавим на график точки минимума и максимума с метками значений
-
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img10.png" alt="Рис.7" width="600"/> <br/> Рис.7 Точки min, max
-
 * Скриншот получившегося графика:
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img11.png" alt="Рис.8"/> <br/> Рис.8 Конечный график 
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab2/img/img11.png" alt="Рис.8"/> <br/> Рис.6 Конечный график 
 
 https://www.desmos.com/calculator/7eqmeagcnm
 
