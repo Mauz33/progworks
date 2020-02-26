@@ -153,6 +153,6 @@ int main() {
 
 ###### 17. Вы попали на вкладку «Дизайн». На форме замените английский текст на русский. Пересоберите проект.
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img5.png" alt="Рис.20" width="600"/> <br/> Рис.25 Замена rus на eng
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img5.png" alt="Рис.25" width="600"/> <br/> Рис.25 Замена rus на eng
 
 ***Вывод: Я изучил основные возможности создания и отладки программ в QT***
