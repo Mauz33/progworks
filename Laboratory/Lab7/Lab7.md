@@ -117,6 +117,7 @@ int main() {
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img17.png" alt="Рис.17" width="600"/> <br/> Рис.13 Значение  переменной d в 6й строке
 
 * Какое значение содержит переменная i и d в 7й строке?
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img18.png" alt="Рис.18" width="600"/> <br/> Рис.14 Значение  переменной i и d в 7й строке
 
 * Совпадают ли эти значения с теми, что вы получали в MSVS для соответствующих типов? Ответ: Нет
@@ -145,14 +146,12 @@ int main() {
 
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img23.png" alt="Рис.24" width="600"/> <br/> Рис.23 Документация
 
-
-
 ###### 16. В инспекторе проекта выберите файл «Формы» => «calculatorform.ui» и дважды счёлкните ЛКМ.
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img24.png" alt="Рис.25" width="600"/> <br/> Рис.24 Форма
 
 
 ###### 17. Вы попали на вкладку «Дизайн». На форме замените английский текст на русский. Пересоберите проект.
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img5.png" alt="Рис.25" width="600"/> <br/> Рис.25 Замена rus на eng
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img25.png" alt="Рис.25" width="600"/> <br/> Рис.25 Замена eng на rus
 
 ***Вывод: Я изучил основные возможности создания и отладки программ в QT***
