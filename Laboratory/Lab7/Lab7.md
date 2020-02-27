@@ -32,7 +32,7 @@
 Для того, чтобы создать консольное приложение С++ нужно:
 * Из списка шаблонов выбрать "Проект без QT"
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img1.png" alt="Рис.1" width="600"/> <br/> <center>Рис.1 Создание проекта без Qt</center>
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab7/img/img1.png" alt="Рис.1" width="600"/> <br/>Рис.1 Создание проекта без Qt
 * Выберите консольное приложение , а затем выберите Далее.
 
 ###### 2. Как изменить цветовую схему (оформление) среды?
