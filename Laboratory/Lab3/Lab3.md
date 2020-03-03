@@ -34,15 +34,15 @@
 #### Ход рыботы
 
 #### Рисунок для декодирования
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/pic3.bmp" alt="Рис.1" width="250"/> <br/> Рис.1 Рисунок для декодирования
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/pic3.bmp" alt="Рис.1" width="650"/> <br/> Рис.1 Рисунок для декодирования
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img2.png" alt="Рис.2" width="250"/> <br/> Рис. 2. Ключ
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img2.png" alt="Рис.2" width="650"/> <br/> Рис. 2. Ключ
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img3.png" alt="Рис.3" width="250"/> <br/> Рис. 3. Создание папки include c файлом "libbmp.h"
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img3.png" alt="Рис.3" width="650"/> <br/> Рис. 3. Создание папки include c файлом "libbmp.h"
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img4.png" alt="Рис.4" width="250"/> <br/> Рис. 4. Подключение заголовочного файла
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img4.png" alt="Рис.4" width="650"/> <br/> Рис. 4. Подключение заголовочного файла
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img5.png" alt="Рис.5" width="250"/> <br/> Рис. 5. Создание cpp файла в исходных файлах "libbmp.cpp" и подключение библиотеки
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img5.png" alt="Рис.5" width="650"/> <br/> Рис. 5. Создание cpp файла в исходных файлах "libbmp.cpp" и подключение библиотеки
 
 #### Код программы с декодированием изображения:
 
@@ -116,7 +116,7 @@ int main()
 
 #### Результат:
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img6.png" alt="Рис.6" width="250"/> <br/> Рис. 6. Результат работы кода
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab3/img/img6.png" alt="Рис.6" width="650"/> <br/> Рис. 6. Результат работы кода
 
 
 #### Вывод: я закрепил навыки разработки программ использующих операторы цикла, массивы и освоил методы подключения сторонних библиотек.
