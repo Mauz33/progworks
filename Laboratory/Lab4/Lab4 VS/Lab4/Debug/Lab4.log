@@ -1,0 +1,7 @@
+﻿  func.cpp
+C:\Users\Mauz\source\repos\Lab4\Lab4\func.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Mauz\source\repos\Lab4\Lab4\func.cpp(246): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+C:\Users\Mauz\source\repos\Lab4\Lab4\main.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Lab4.vcxproj -> C:\Users\Mauz\source\repos\Lab4\Debug\Lab4.exe
