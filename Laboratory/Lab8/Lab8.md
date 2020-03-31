@@ -84,7 +84,7 @@
 
 Подключение смартфона к ПК
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/im12.png" alt="Рис.12" width="600"/> <br/> Рис.12 Режим разработчика
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img12.png" alt="Рис.12" width="600"/> <br/> Рис.12 Режим разработчика
 
 Поиск совместимых устройств
 
