@@ -36,11 +36,13 @@
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img1.png" alt="Рис.1" width="600"/> <br/> Рис.1 Qt Maintenance Tool
 
 Скачивание компонента ***Android***
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Обновление компонентов QT
 
 ###### 2. Установка JDK 8 <br/>
 
 Проверка версии JDK
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img3.png" alt="Рис.3" width="600"/> <br/> Рис.3 Версия JDK
 
 ###### 3. Установка Android Studio
@@ -68,6 +70,7 @@
 ###### 4. Настройка Qt Creator
 
 Указываем пути JDK, SDK, NDK.
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img10.png" alt="Рис.10" width="600"/> <br/> Рис.10 Настройка во вкладке Android
 
 Галочки стоят везде, значит настройка проведена корректно.
@@ -75,16 +78,20 @@
 ###### 4. Запуск проекта
 
 Выбор проекта из общего списка
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img11.png" alt="Рис.11" width="600"/> <br/> Рис.11 Проект
 
 
 Подключение смартфона к ПК
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img12.png" alt="Рис.12" width="600"/> <br/> Рис.12 Режим разработчика
 
 Поиск совместимых устройств
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img10.png" alt="Рис.12" width="600"/> <br/> Рис.13 Совместимые устройства
 
 Запуск приложения
+
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img10.png" alt="Рис.12" width="600"/> <br/> Рис.14 Приложение готово к запуску
 
 <img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img10.png" alt="Рис.12" width="600"/> <br/> Рис.15 Запущенное приложение
