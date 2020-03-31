@@ -88,13 +88,13 @@
 
 Поиск совместимых устройств
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img10.png" alt="Рис.12" width="600"/> <br/> Рис.13 Совместимые устройства
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img13.png" alt="Рис.12" width="600"/> <br/> Рис.13 Совместимые устройства
 
 Запуск приложения
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img10.png" alt="Рис.12" width="600"/> <br/> Рис.14 Приложение готово к запуску
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img14.png" alt="Рис.12" width="600"/> <br/> Рис.14 Приложение готово к запуску
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img10.png" alt="Рис.12" width="600"/> <br/> Рис.15 Запущенное приложение
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab8/img/img15.png" alt="Рис.12" width="600"/> <br/> Рис.15 Запущенное приложение
 
 
 
