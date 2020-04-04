@@ -186,8 +186,6 @@ int main()
 	output << "Выживших их третьего класса: " << third << std::endl;
 	output << "Выживших женщин: " << femaleSurv << std::endl;
 	output << "Выживших мужчин: " << maleSurv << std::endl;
-	cout << fixed;
-	cout.precision(1);
 	output << "Средний возраст всех пассажиров: " << avrgAge << std::endl;
 	output << "Средний возраст женщин: " << avrg_femAge << std::endl;
 	output << "Средний возраст мужчин: " << avrg_maleAge << std::endl;
