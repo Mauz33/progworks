@@ -195,7 +195,7 @@ TEST_F(FixtureLockController, FewPasswordResetOK){
 ```
 ###### 2. Результаты тестов <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img1.png" alt="Рис.1" width="600"/> <br/> Рис.1 Результаты тестов
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img1.png" alt="Рис.1" width="1000"/> <br/> Рис.1 Результаты тестов
 
 ###### 3. Устранение ошибки <br/>
 
@@ -218,4 +218,4 @@ DoorStatus LockController::lockDoor()
 <br/>
 Данная ошибку можно было допустить из-за невнимательности. Чтобы не писать заного метод, его просто скопировали, но забыли исправить.
 
-***Вывод: Я познакомился с Google Test и Google Mock Framework, изучил базовые понятия относящийся к тестированию кода, научитлся тестировать классы в среде разработки Qt Creator.
+**Вывод: Я познакомился с Google Test и Google Mock Framework, изучил базовые понятия относящийся к тестированию кода, научитлся тестировать классы в среде разработки Qt Creator.
