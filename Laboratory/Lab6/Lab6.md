@@ -37,41 +37,41 @@
 
 ###### 2. Запуск сервера <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Код
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img2.png" alt="Рис.2" width="600"/> <br/> Рис.2 Код
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img3.png" alt="Рис.3" width="600"/> <br/> Рис.3 localhost:1234
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img3.png" alt="Рис.3" width="600"/> <br/> Рис.3 localhost:1234
 
 ###### 3. API <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img4.png" alt="Рис.4" width="600"/> <br/> Рис.4 API ключ
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img4.png" alt="Рис.4" width="600"/> <br/> Рис.4 API ключ
 
 ###### 4. Составление запроса <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img5.png" alt="Рис.5" width="600"/> <br/> Рис.5 Полученные данные по запросу
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img5.png" alt="Рис.5" width="600"/> <br/> Рис.5 Полученные данные по запросу
 
 ``` http://api.openweathermap.org/data/2.5/forecast?id=693805&appid=bd5e7136af20e8650e9cf52a7cf92fa3&mode=json&lang=en&units=metric``` Конечная ссылка. id-город, appid - API, mode - получить в формате JSON, lang - язык, units - единица измерения
 
 ###### 5. Получение данных <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img6.png" alt="Рис.6" width="600"/> <br/> Рис.6 Считывание данных по url
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img6.png" alt="Рис.6" width="600"/> <br/> Рис.6 Считывание данных по url
 
 ###### 6. Подключение nlohmann <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img7.png" alt="Рис.7" width="600"/> <br/> Рис.7 Подлючение библиотеки
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img7.png" alt="Рис.7" width="600"/> <br/> Рис.7 Подлючение библиотеки
 
 ###### 7. Парсинг с помощью библиотеки для работы с JSON <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img8.png" alt="Рис.8" width="600"/> <br/> Рис.8 Парсинг
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img8.png" alt="Рис.8" width="600"/> <br/> Рис.8 Парсинг
 
 ###### 8. Шаблон <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img9.png" alt="Рис.9" width="600"/> <br/> Рис.9 Шаблон для работы
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img9.png" alt="Рис.9" width="600"/> <br/> Рис.9 Шаблон для работы
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img10.png" alt="Рис.10" width="600"/> <br/> Рис.10 Шаблон
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img10.png" alt="Рис.10" width="600"/> <br/> Рис.10 Шаблон
 
 ###### 9. Итог <br/>
 
-<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab9/img/img11.png" alt="Рис.11" width="600"/> <br/> Рис.11 Результат работы
+<img src="https://raw.githubusercontent.com/Mauz33/progworks/master/Laboratory/Lab6/img/img11.png" alt="Рис.11" width="600"/> <br/> Рис.11 Результат работы
 
 
 ```cpp
